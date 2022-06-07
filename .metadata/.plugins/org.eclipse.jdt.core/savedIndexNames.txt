@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\revature\git_repos\WeeklyCodingChallenge\.metadata\.plugins\org.eclipse.jdt.core
+217047792.index
+1865797976.index
+859065723.index
